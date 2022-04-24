@@ -1,0 +1,1172 @@
+[
+  {
+    "country": "Afghanistan",
+    "population": 38928346,
+    "land_area": 652860,
+    "density": 60
+  },
+  {
+    "country": "Albania",
+    "population": 2877797,
+    "land_area": 27400,
+    "density": 105
+  },
+  {
+    "country": "Algeria",
+    "population": 43851044,
+    "land_area": 2381740,
+    "density": 18
+  },
+  {
+    "country": "Andorra",
+    "population": 77265,
+    "land_area": 470,
+    "density": 164
+  },
+  {
+    "country": "Angola",
+    "population": 32866272,
+    "land_area": 1246700,
+    "density": 26
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "population": 97929,
+    "land_area": 440,
+    "density": 223
+  },
+  {
+    "country": "Argentina",
+    "population": 45195774,
+    "land_area": 2736690,
+    "density": 17
+  },
+  {
+    "country": "Armenia",
+    "population": 2963243,
+    "land_area": 28470,
+    "density": 104
+  },
+  {
+    "country": "Australia",
+    "population": 25499884,
+    "land_area": 7682300,
+    "density": 3
+  },
+  {
+    "country": "Austria",
+    "population": 9006398,
+    "land_area": 82409,
+    "density": 109
+  },
+  {
+    "country": "Azerbaijan",
+    "population": 10139177,
+    "land_area": 82658,
+    "density": 123
+  },
+  {
+    "country": "Bahamas",
+    "population": 393244,
+    "land_area": 10010,
+    "density": 39
+  },
+  {
+    "country": "Bahrain",
+    "population": 1701575,
+    "land_area": 760,
+    "density": 2239
+  },
+  {
+    "country": "Bangladesh",
+    "population": 164689383,
+    "land_area": 130170,
+    "density": 1265
+  },
+  {
+    "country": "Barbados",
+    "population": 287375,
+    "land_area": 430,
+    "density": 668
+  },
+  {
+    "country": "Belarus",
+    "population": 9449323,
+    "land_area": 202910,
+    "density": 47
+  },
+  {
+    "country": "Belgium",
+    "population": 11589623,
+    "land_area": 30280,
+    "density": 383
+  },
+  {
+    "country": "Belize",
+    "population": 397628,
+    "land_area": 22810,
+    "density": 17
+  },
+  {
+    "country": "Benin",
+    "population": 12123200,
+    "land_area": 112760,
+    "density": 108
+  },
+  {
+    "country": "Bhutan",
+    "population": 771608,
+    "land_area": 38117,
+    "density": 20
+  },
+  {
+    "country": "Bolivia",
+    "population": 11673021,
+    "land_area": 1083300,
+    "density": 11
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "population": 3280819,
+    "land_area": 51000,
+    "density": 64
+  },
+  {
+    "country": "Botswana",
+    "population": 2351627,
+    "land_area": 566730,
+    "density": 4
+  },
+  {
+    "country": "Brazil",
+    "population": 212559417,
+    "land_area": 8358140,
+    "density": 25
+  },
+  {
+    "country": "Brunei",
+    "population": 437479,
+    "land_area": 5270,
+    "density": 83
+  },
+  {
+    "country": "Bulgaria",
+    "population": 6948445,
+    "land_area": 108560,
+    "density": 64
+  },
+  {
+    "country": "Burkina Faso",
+    "population": 20903273,
+    "land_area": 273600,
+    "density": 76
+  },
+  {
+    "country": "Burundi",
+    "population": 11890784,
+    "land_area": 25680,
+    "density": 463
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "population": 26378274,
+    "land_area": 318000,
+    "density": 83
+  },
+  {
+    "country": "Cabo Verde",
+    "population": 555987,
+    "land_area": 4030,
+    "density": 138
+  },
+  {
+    "country": "Cambodia",
+    "population": 16718965,
+    "land_area": 176520,
+    "density": 95
+  },
+  {
+    "country": "Cameroon",
+    "population": 26545863,
+    "land_area": 472710,
+    "density": 56
+  },
+  {
+    "country": "Canada",
+    "population": 37742154,
+    "land_area": 9093510,
+    "density": 4
+  },
+  {
+    "country": "Central African Republic",
+    "population": 4829767,
+    "land_area": 622980,
+    "density": 8
+  },
+  {
+    "country": "Chad",
+    "population": 16425864,
+    "land_area": 1259200,
+    "density": 13
+  },
+  {
+    "country": "Chile",
+    "population": 19116201,
+    "land_area": 743532,
+    "density": 26
+  },
+  {
+    "country": "China",
+    "population": 1439323776,
+    "land_area": 9388211,
+    "density": 153
+  },
+  {
+    "country": "Colombia",
+    "population": 50882891,
+    "land_area": 1109500,
+    "density": 46
+  },
+  {
+    "country": "Comoros",
+    "population": 869601,
+    "land_area": 1861,
+    "density": 467
+  },
+  {
+    "country": "Congo (Congo-Brazzaville)",
+    "population": 5518087,
+    "land_area": 341500,
+    "density": 16
+  },
+  {
+    "country": "Costa Rica",
+    "population": 5094118,
+    "land_area": 51060,
+    "density": 100
+  },
+  {
+    "country": "Croatia",
+    "population": 4105267,
+    "land_area": 55960,
+    "density": 73
+  },
+  {
+    "country": "Cuba",
+    "population": 11326616,
+    "land_area": 106440,
+    "density": 106
+  },
+  {
+    "country": "Cyprus",
+    "population": 1207359,
+    "land_area": 9240,
+    "density": 131
+  },
+  {
+    "country": "Czechia (Czech Republic)",
+    "population": 10708981,
+    "land_area": 77240,
+    "density": 139
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "population": 89561403,
+    "land_area": 2267050,
+    "density": 40
+  },
+  {
+    "country": "Denmark",
+    "population": 5792202,
+    "land_area": 42430,
+    "density": 137
+  },
+  {
+    "country": "Djibouti",
+    "population": 988000,
+    "land_area": 23180,
+    "density": 43
+  },
+  {
+    "country": "Dominica",
+    "population": 71986,
+    "land_area": 750,
+    "density": 96
+  },
+  {
+    "country": "Dominican Republic",
+    "population": 10847910,
+    "land_area": 48320,
+    "density": 225
+  },
+  {
+    "country": "Ecuador",
+    "population": 17643054,
+    "land_area": 248360,
+    "density": 71
+  },
+  {
+    "country": "Egypt",
+    "population": 102334404,
+    "land_area": 995450,
+    "density": 103
+  },
+  {
+    "country": "El Salvador",
+    "population": 6486205,
+    "land_area": 20720,
+    "density": 313
+  },
+  {
+    "country": "Equatorial Guinea",
+    "population": 1402985,
+    "land_area": 28050,
+    "density": 50
+  },
+  {
+    "country": "Eritrea",
+    "population": 3546421,
+    "land_area": 101000,
+    "density": 35
+  },
+  {
+    "country": "Estonia",
+    "population": 1326535,
+    "land_area": 42390,
+    "density": 31
+  },
+  {
+    "country": "Eswatini (fmr. Swaziland)",
+    "population": 1160164,
+    "land_area": 17200,
+    "density": 67
+  },
+  {
+    "country": "Ethiopia",
+    "population": 114963588,
+    "land_area": 1000000,
+    "density": 115
+  },
+  {
+    "country": "Fiji",
+    "population": 896445,
+    "land_area": 18270,
+    "density": 49
+  },
+  {
+    "country": "Finland",
+    "population": 5540720,
+    "land_area": 303890,
+    "density": 18
+  },
+  {
+    "country": "France",
+    "population": 65273511,
+    "land_area": 547557,
+    "density": 119
+  },
+  {
+    "country": "Gabon",
+    "population": 2225734,
+    "land_area": 257670,
+    "density": 9
+  },
+  {
+    "country": "Gambia",
+    "population": 2416668,
+    "land_area": 10120,
+    "density": 239
+  },
+  {
+    "country": "Georgia",
+    "population": 3989167,
+    "land_area": 69490,
+    "density": 57
+  },
+  {
+    "country": "Germany",
+    "population": 83783942,
+    "land_area": 348560,
+    "density": 240
+  },
+  {
+    "country": "Ghana",
+    "population": 31072940,
+    "land_area": 227540,
+    "density": 137
+  },
+  {
+    "country": "Greece",
+    "population": 10423054,
+    "land_area": 128900,
+    "density": 81
+  },
+  {
+    "country": "Grenada",
+    "population": 112523,
+    "land_area": 340,
+    "density": 331
+  },
+  {
+    "country": "Guatemala",
+    "population": 17915568,
+    "land_area": 107160,
+    "density": 167
+  },
+  {
+    "country": "Guinea",
+    "population": 13132795,
+    "land_area": 245720,
+    "density": 53
+  },
+  {
+    "country": "Guinea-Bissau",
+    "population": 1968001,
+    "land_area": 28120,
+    "density": 70
+  },
+  {
+    "country": "Guyana",
+    "population": 786552,
+    "land_area": 196850,
+    "density": 4
+  },
+  {
+    "country": "Haiti",
+    "population": 11402528,
+    "land_area": 27560,
+    "density": 414
+  },
+  {
+    "country": "Holy See",
+    "population": 801,
+    "land_area": 0,
+    "density": 2003
+  },
+  {
+    "country": "Honduras",
+    "population": 9904607,
+    "land_area": 111890,
+    "density": 89
+  },
+  {
+    "country": "Hungary",
+    "population": 9660351,
+    "land_area": 90530,
+    "density": 107
+  },
+  {
+    "country": "Iceland",
+    "population": 341243,
+    "land_area": 100250,
+    "density": 3
+  },
+  {
+    "country": "India",
+    "population": 1380004385,
+    "land_area": 2973190,
+    "density": 464
+  },
+  {
+    "country": "Indonesia",
+    "population": 273523615,
+    "land_area": 1811570,
+    "density": 151
+  },
+  {
+    "country": "Iran",
+    "population": 83992949,
+    "land_area": 1628550,
+    "density": 52
+  },
+  {
+    "country": "Iraq",
+    "population": 40222493,
+    "land_area": 434320,
+    "density": 93
+  },
+  {
+    "country": "Ireland",
+    "population": 4937786,
+    "land_area": 68890,
+    "density": 72
+  },
+  {
+    "country": "Israel",
+    "population": 8655535,
+    "land_area": 21640,
+    "density": 400
+  },
+  {
+    "country": "Italy",
+    "population": 60461826,
+    "land_area": 294140,
+    "density": 206
+  },
+  {
+    "country": "Jamaica",
+    "population": 2961167,
+    "land_area": 10830,
+    "density": 273
+  },
+  {
+    "country": "Japan",
+    "population": 126476461,
+    "land_area": 364555,
+    "density": 347
+  },
+  {
+    "country": "Jordan",
+    "population": 10203134,
+    "land_area": 88780,
+    "density": 115
+  },
+  {
+    "country": "Kazakhstan",
+    "population": 18776707,
+    "land_area": 2699700,
+    "density": 7
+  },
+  {
+    "country": "Kenya",
+    "population": 53771296,
+    "land_area": 569140,
+    "density": 94
+  },
+  {
+    "country": "Kiribati",
+    "population": 119449,
+    "land_area": 810,
+    "density": 147
+  },
+  {
+    "country": "Kuwait",
+    "population": 4270571,
+    "land_area": 17820,
+    "density": 240
+  },
+  {
+    "country": "Kyrgyzstan",
+    "population": 6524195,
+    "land_area": 191800,
+    "density": 34
+  },
+  {
+    "country": "Laos",
+    "population": 7275560,
+    "land_area": 230800,
+    "density": 32
+  },
+  {
+    "country": "Latvia",
+    "population": 1886198,
+    "land_area": 62200,
+    "density": 30
+  },
+  {
+    "country": "Lebanon",
+    "population": 6825445,
+    "land_area": 10230,
+    "density": 667
+  },
+  {
+    "country": "Lesotho",
+    "population": 2142249,
+    "land_area": 30360,
+    "density": 71
+  },
+  {
+    "country": "Liberia",
+    "population": 5057681,
+    "land_area": 96320,
+    "density": 53
+  },
+  {
+    "country": "Libya",
+    "population": 6871292,
+    "land_area": 1759540,
+    "density": 4
+  },
+  {
+    "country": "Liechtenstein",
+    "population": 38128,
+    "land_area": 160,
+    "density": 238
+  },
+  {
+    "country": "Lithuania",
+    "population": 2722289,
+    "land_area": 62674,
+    "density": 43
+  },
+  {
+    "country": "Luxembourg",
+    "population": 625978,
+    "land_area": 2590,
+    "density": 242
+  },
+  {
+    "country": "Madagascar",
+    "population": 27691018,
+    "land_area": 581795,
+    "density": 48
+  },
+  {
+    "country": "Malawi",
+    "population": 19129952,
+    "land_area": 94280,
+    "density": 203
+  },
+  {
+    "country": "Malaysia",
+    "population": 32365999,
+    "land_area": 328550,
+    "density": 99
+  },
+  {
+    "country": "Maldives",
+    "population": 540544,
+    "land_area": 300,
+    "density": 1802
+  },
+  {
+    "country": "Mali",
+    "population": 20250833,
+    "land_area": 1220190,
+    "density": 17
+  },
+  {
+    "country": "Malta",
+    "population": 441543,
+    "land_area": 320,
+    "density": 1380
+  },
+  {
+    "country": "Marshall Islands",
+    "population": 59190,
+    "land_area": 180,
+    "density": 329
+  },
+  {
+    "country": "Mauritania",
+    "population": 4649658,
+    "land_area": 1030700,
+    "density": 5
+  },
+  {
+    "country": "Mauritius",
+    "population": 1271768,
+    "land_area": 2030,
+    "density": 626
+  },
+  {
+    "country": "Mexico",
+    "population": 128932753,
+    "land_area": 1943950,
+    "density": 66
+  },
+  {
+    "country": "Micronesia",
+    "population": 548914,
+    "land_area": 700,
+    "density": 784
+  },
+  {
+    "country": "Moldova",
+    "population": 4033963,
+    "land_area": 32850,
+    "density": 123
+  },
+  {
+    "country": "Monaco",
+    "population": 39242,
+    "land_area": 1,
+    "density": 26337
+  },
+  {
+    "country": "Mongolia",
+    "population": 3278290,
+    "land_area": 1553560,
+    "density": 2
+  },
+  {
+    "country": "Montenegro",
+    "population": 628066,
+    "land_area": 13450,
+    "density": 47
+  },
+  {
+    "country": "Morocco",
+    "population": 36910560,
+    "land_area": 446300,
+    "density": 83
+  },
+  {
+    "country": "Mozambique",
+    "population": 31255435,
+    "land_area": 786380,
+    "density": 40
+  },
+  {
+    "country": "Myanmar (formerly Burma)",
+    "population": 54409800,
+    "land_area": 653290,
+    "density": 83
+  },
+  {
+    "country": "Namibia",
+    "population": 2540905,
+    "land_area": 823290,
+    "density": 3
+  },
+  {
+    "country": "Nauru",
+    "population": 10824,
+    "land_area": 20,
+    "density": 541
+  },
+  {
+    "country": "Nepal",
+    "population": 29136808,
+    "land_area": 143350,
+    "density": 203
+  },
+  {
+    "country": "Netherlands",
+    "population": 17134872,
+    "land_area": 33720,
+    "density": 508
+  },
+  {
+    "country": "New Zealand",
+    "population": 4822233,
+    "land_area": 263310,
+    "density": 18
+  },
+  {
+    "country": "Nicaragua",
+    "population": 6624554,
+    "land_area": 120340,
+    "density": 55
+  },
+  {
+    "country": "Niger",
+    "population": 24206644,
+    "land_area": 1266700,
+    "density": 19
+  },
+  {
+    "country": "Nigeria",
+    "population": 206139589,
+    "land_area": 910770,
+    "density": 226
+  },
+  {
+    "country": "North Korea",
+    "population": 25778816,
+    "land_area": 120410,
+    "density": 214
+  },
+  {
+    "country": "North Macedonia",
+    "population": 2083374,
+    "land_area": 25220,
+    "density": 83
+  },
+  {
+    "country": "Norway",
+    "population": 5421241,
+    "land_area": 365268,
+    "density": 15
+  },
+  {
+    "country": "Oman",
+    "population": 5106626,
+    "land_area": 309500,
+    "density": 16
+  },
+  {
+    "country": "Pakistan",
+    "population": 220892340,
+    "land_area": 770880,
+    "density": 287
+  },
+  {
+    "country": "Palau",
+    "population": 18094,
+    "land_area": 460,
+    "density": 39
+  },
+  {
+    "country": "Palestine State",
+    "population": 5101414,
+    "land_area": 6020,
+    "density": 847
+  },
+  {
+    "country": "Panama",
+    "population": 4314767,
+    "land_area": 74340,
+    "density": 58
+  },
+  {
+    "country": "Papua New Guinea",
+    "population": 8947024,
+    "land_area": 452860,
+    "density": 20
+  },
+  {
+    "country": "Paraguay",
+    "population": 7132538,
+    "land_area": 397300,
+    "density": 18
+  },
+  {
+    "country": "Peru",
+    "population": 32971854,
+    "land_area": 1280000,
+    "density": 26
+  },
+  {
+    "country": "Philippines",
+    "population": 109581078,
+    "land_area": 298170,
+    "density": 368
+  },
+  {
+    "country": "Poland",
+    "population": 37846611,
+    "land_area": 306230,
+    "density": 124
+  },
+  {
+    "country": "Portugal",
+    "population": 10196709,
+    "land_area": 91590,
+    "density": 111
+  },
+  {
+    "country": "Qatar",
+    "population": 2881053,
+    "land_area": 11610,
+    "density": 248
+  },
+  {
+    "country": "Romania",
+    "population": 19237691,
+    "land_area": 230170,
+    "density": 84
+  },
+  {
+    "country": "Russia",
+    "population": 145934462,
+    "land_area": 16376870,
+    "density": 9
+  },
+  {
+    "country": "Rwanda",
+    "population": 12952218,
+    "land_area": 24670,
+    "density": 525
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "population": 53199,
+    "land_area": 260,
+    "density": 205
+  },
+  {
+    "country": "Saint Lucia",
+    "population": 183627,
+    "land_area": 610,
+    "density": 301
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "population": 110940,
+    "land_area": 390,
+    "density": 284
+  },
+  {
+    "country": "Samoa",
+    "population": 198414,
+    "land_area": 2830,
+    "density": 70
+  },
+  {
+    "country": "San Marino",
+    "population": 33931,
+    "land_area": 60,
+    "density": 566
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "population": 219159,
+    "land_area": 960,
+    "density": 228
+  },
+  {
+    "country": "Saudi Arabia",
+    "population": 34813871,
+    "land_area": 2149690,
+    "density": 16
+  },
+  {
+    "country": "Senegal",
+    "population": 16743927,
+    "land_area": 192530,
+    "density": 87
+  },
+  {
+    "country": "Serbia",
+    "population": 8737371,
+    "land_area": 87460,
+    "density": 100
+  },
+  {
+    "country": "Seychelles",
+    "population": 98347,
+    "land_area": 460,
+    "density": 214
+  },
+  {
+    "country": "Sierra Leone",
+    "population": 7976983,
+    "land_area": 72180,
+    "density": 111
+  },
+  {
+    "country": "Singapore",
+    "population": 5850342,
+    "land_area": 700,
+    "density": 8358
+  },
+  {
+    "country": "Slovakia",
+    "population": 5459642,
+    "land_area": 48088,
+    "density": 114
+  },
+  {
+    "country": "Slovenia",
+    "population": 2078938,
+    "land_area": 20140,
+    "density": 103
+  },
+  {
+    "country": "Solomon Islands",
+    "population": 686884,
+    "land_area": 27990,
+    "density": 25
+  },
+  {
+    "country": "Somalia",
+    "population": 15893222,
+    "land_area": 627340,
+    "density": 25
+  },
+  {
+    "country": "South Africa",
+    "population": 59308690,
+    "land_area": 1213090,
+    "density": 49
+  },
+  {
+    "country": "South Korea",
+    "population": 51269185,
+    "land_area": 97230,
+    "density": 527
+  },
+  {
+    "country": "South Sudan",
+    "population": 11193725,
+    "land_area": 610952,
+    "density": 18
+  },
+  {
+    "country": "Spain",
+    "population": 46754778,
+    "land_area": 498800,
+    "density": 94
+  },
+  {
+    "country": "Sri Lanka",
+    "population": 21413249,
+    "land_area": 62710,
+    "density": 341
+  },
+  {
+    "country": "Sudan",
+    "population": 43849260,
+    "land_area": 1765048,
+    "density": 25
+  },
+  {
+    "country": "Suriname",
+    "population": 586632,
+    "land_area": 156000,
+    "density": 4
+  },
+  {
+    "country": "Sweden",
+    "population": 10099265,
+    "land_area": 410340,
+    "density": 25
+  },
+  {
+    "country": "Switzerland",
+    "population": 8654622,
+    "land_area": 39516,
+    "density": 219
+  },
+  {
+    "country": "Syria",
+    "population": 17500658,
+    "land_area": 183630,
+    "density": 95
+  },
+  {
+    "country": "Tajikistan",
+    "population": 9537645,
+    "land_area": 139960,
+    "density": 68
+  },
+  {
+    "country": "Tanzania",
+    "population": 59734218,
+    "land_area": 885800,
+    "density": 67
+  },
+  {
+    "country": "Thailand",
+    "population": 69799978,
+    "land_area": 510890,
+    "density": 137
+  },
+  {
+    "country": "Timor-Leste",
+    "population": 1318445,
+    "land_area": 14870,
+    "density": 89
+  },
+  {
+    "country": "Togo",
+    "population": 8278724,
+    "land_area": 54390,
+    "density": 152
+  },
+  {
+    "country": "Tonga",
+    "population": 105695,
+    "land_area": 720,
+    "density": 147
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "population": 1399488,
+    "land_area": 5130,
+    "density": 273
+  },
+  {
+    "country": "Tunisia",
+    "population": 11818619,
+    "land_area": 155360,
+    "density": 76
+  },
+  {
+    "country": "Turkey",
+    "population": 84339067,
+    "land_area": 769630,
+    "density": 110
+  },
+  {
+    "country": "Turkmenistan",
+    "population": 6031200,
+    "land_area": 469930,
+    "density": 13
+  },
+  {
+    "country": "Tuvalu",
+    "population": 11792,
+    "land_area": 30,
+    "density": 393
+  },
+  {
+    "country": "Uganda",
+    "population": 45741007,
+    "land_area": 199810,
+    "density": 229
+  },
+  {
+    "country": "Ukraine",
+    "population": 43733762,
+    "land_area": 579320,
+    "density": 75
+  },
+  {
+    "country": "United Arab Emirates",
+    "population": 9890402,
+    "land_area": 83600,
+    "density": 118
+  },
+  {
+    "country": "United Kingdom",
+    "population": 67886011,
+    "land_area": 241930,
+    "density": 281
+  },
+  {
+    "country": "United States of America",
+    "population": 331002651,
+    "land_area": 9147420,
+    "density": 36
+  },
+  {
+    "country": "Uruguay",
+    "population": 3473730,
+    "land_area": 175020,
+    "density": 20
+  },
+  {
+    "country": "Uzbekistan",
+    "population": 33469203,
+    "land_area": 425400,
+    "density": 79
+  },
+  {
+    "country": "Vanuatu",
+    "population": 307145,
+    "land_area": 12190,
+    "density": 25
+  },
+  {
+    "country": "Venezuela",
+    "population": 28435940,
+    "land_area": 882050,
+    "density": 32
+  },
+  {
+    "country": "Vietnam",
+    "population": 97338579,
+    "land_area": 310070,
+    "density": 314
+  },
+  {
+    "country": "Yemen",
+    "population": 29825964,
+    "land_area": 527970,
+    "density": 56
+  },
+  {
+    "country": "Zambia",
+    "population": 18383955,
+    "land_area": 743390,
+    "density": 25
+  },
+  {
+    "country": "Zimbabwe",
+    "population": 14862924,
+    "land_area": 386850,
+    "density": 38
+  }
+]
